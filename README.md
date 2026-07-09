@@ -6,4 +6,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Context.png" width="100%" title="Context"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Problem Statement.png" width="100%" title="Problem Statement"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
