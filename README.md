@@ -8,4 +8,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Problem Statement.png" width="100%" title="Problem Statement"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Key Insight.png" width="100%" title="Key Insight"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
