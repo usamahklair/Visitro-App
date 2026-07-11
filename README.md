@@ -12,4 +12,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Direction.png" width="100%" title="Direction"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Core Features.png" width="100%" title="Core Features"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
