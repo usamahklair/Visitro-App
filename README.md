@@ -10,4 +10,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Key Insight.png" width="100%" title="Key Insight"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Direction.png" width="100%" title="Direction"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
