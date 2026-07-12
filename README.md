@@ -16,4 +16,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="User Flow.png" width="100%" title="User Flow"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Home Screen.png" width="100%" title="Home Screen"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
