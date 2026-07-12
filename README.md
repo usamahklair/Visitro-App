@@ -14,4 +14,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Core Features.png" width="100%" title="Core Features"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="User Flow.png" width="100%" title="User Flow"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
