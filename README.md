@@ -18,4 +18,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Home Screen.png" width="100%" title="Home Screen"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Listing Details.png" width="100%" title="Listing Details"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
