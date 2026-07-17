@@ -20,4 +20,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Listing Details.png" width="100%" title="Listing Details"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="Ask AI.png" width="100%" title="Ask AI"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
