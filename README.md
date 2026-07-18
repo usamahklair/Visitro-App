@@ -1,4 +1,4 @@
-# Visitro-App
+<h1 align="center">Visitro App</h1>
 ## AI Hotel Booking App
 
 <p align="center">
