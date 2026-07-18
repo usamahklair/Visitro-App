@@ -1,5 +1,6 @@
 <h1 align="center">Visitro App</h1>
-## AI Hotel Booking App
+
+<h2 align="center">AI Hotel Booking App</h2>
 
 <p align="center">
   <img src="Overview.png" width="100%" title="Overview"/>
