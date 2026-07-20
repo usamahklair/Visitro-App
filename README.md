@@ -23,4 +23,6 @@
   &nbsp;&nbsp;&nbsp;
   <img src="Ask AI.png" width="100%" title="Ask AI"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="AI Chat.png" width="100%" title="AI Chat"/>
+  &nbsp;&nbsp;&nbsp;
 </p>
