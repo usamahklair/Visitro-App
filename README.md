@@ -1,6 +1,6 @@
 <h1 align="center">Visitro App</h1>
 
-<h2 align="center">AI Hotel Booking App</h2>
+<h2 align="center">AI Powered Hotel Booking App</h2>
 
 <p align="center">
   <img src="Overview.png" width="100%" title="Overview"/>
