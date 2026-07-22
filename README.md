@@ -1,4 +1,4 @@
-<h1 align="center">Visitro App</h1>
+<h1 align="center">Visitro</h1>
 
 <h2 align="center">AI Powered Hotel Booking App</h2>
 
